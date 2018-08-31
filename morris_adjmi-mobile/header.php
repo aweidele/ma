@@ -6,6 +6,7 @@
 <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
 <meta property="og:image" content="<?php echo $thumb[0]; ?>" />
 <meta itemprop="image" content="<?php echo $thumb[0]; ?>" />
+<meta name="p:domain_verify" content="5f483df007944717b216b4f49074650b"/>
 <link rel="image_src" href="<?php echo $thumb[0]; ?>" />
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/image/favicon.ico" type="image/x-icon"/>
 
@@ -65,7 +66,7 @@ if($ann->have_posts()) :
     </div>
   </div>
 </div>
-<?php 
+<?php
 endif;
 wp_reset_query();
 ?>

@@ -3,6 +3,7 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta name="viewport" content="width=1100">
+<meta name="p:domain_verify" content="5f483df007944717b216b4f49074650b"/>
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/image/favicon.ico" type="image/x-icon"/>
 
 <meta property="og:image" content="<?php echo $thumb[0]; ?>" />
