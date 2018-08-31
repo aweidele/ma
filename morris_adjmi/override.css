@@ -1,0 +1,4 @@
+.page_content p.intro,
+.intro { font-size: 1.9em; line-height: 1.2em; }
+
+.project_share li.pinterest { display: none; }
